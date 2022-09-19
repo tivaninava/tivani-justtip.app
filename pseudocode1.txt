@@ -1,0 +1,16 @@
+Start
+Turn on the phone
+Press button justtip.app
+Press button "menu list food"
+READ AND WRITE "Food Name" with string
+IF WHILE "Food Name" Food not available "menu"
+          PRINT "Menu not available"
+          Do "READ AND WRITE "Food Name" with string"
+ELSE
+    READ AND WRITE "Amount of Food" with number
+END IF
+Press button "food confirmation"
+READ AND WRITE "Enter shipping address" with string
+Press button "make payment"
+Finish
+    
